@@ -1,0 +1,6 @@
+Line 18: Class CCRProgressBar.ccrpProgressBar of control progreso was not a loaded control class.
+Line 24: The property name _ExtentX in progreso is invalid.
+Line 25: The property name _ExtentY in progreso is invalid.
+Line 28: The property name Caption in progreso is invalid.
+Line 40: The property name Min in progreso is invalid.
+Line 41: The property name Style in progreso is invalid.

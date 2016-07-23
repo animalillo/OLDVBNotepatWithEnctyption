@@ -1,0 +1,3 @@
+Copied C:\Documents and Settings\Usuario\Escritorio\Visual Basic 6.0\notasXD\Pruevas\Package\setup.exe to C:\Documents and Settings\Usuario\Escritorio\Visual Basic 6.0\notasXD\Pruevas\New Folder
+Copied C:\Documents and Settings\Usuario\Escritorio\Visual Basic 6.0\notasXD\Pruevas\Package\SETUP.LST to C:\Documents and Settings\Usuario\Escritorio\Visual Basic 6.0\notasXD\Pruevas\New Folder
+Copied C:\Documents and Settings\Usuario\Escritorio\Visual Basic 6.0\notasXD\Pruevas\Package\Notasxp2.CAB to C:\Documents and Settings\Usuario\Escritorio\Visual Basic 6.0\notasXD\Pruevas\New Folder
